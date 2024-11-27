@@ -1,0 +1,38 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+    width: 700;
+    height: 300px;
+    padding: 30px;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+/** This is the heading "Icebreaker Questions Generator" Just the margins. **/
+.heading {
+    margin: 50px;
+}
+
+p {
+    margin: 50px;
+    font-weight: 100px;
+}
+
+
+.fixed-size {
+    width: 500px;
+    /* Set the width */
+    height: 500px;
+    /* Set the height */
+    margin: -200px;
+}
+
+.fixed-size2 {
+    width: 700px;
+    /* Set the width */
+    height: 400px;
+    /* Set the height */
+    margin-left: 200px;
+    margin: 20px;
+}
