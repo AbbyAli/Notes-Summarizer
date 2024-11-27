@@ -9,10 +9,6 @@ body {
     font-size: 20px;
 }
 
-/** This is the heading "Icebreaker Questions Generator" Just the margins. **/
-.heading {
-    margin: 50px;
-}
 
 p {
     margin: 50px;
@@ -20,7 +16,7 @@ p {
 }
 
 
-.fixed-size {
+.fixed-size { /* SumUp logo placement and adjustment
     width: 500px;
     /* Set the width */
     height: 500px;
@@ -28,7 +24,7 @@ p {
     margin: -200px;
 }
 
-.fixed-size2 {
+.fixed-size2 { /* Image of people looking at a star
     width: 700px;
     /* Set the width */
     height: 400px;
