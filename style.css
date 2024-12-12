@@ -15,10 +15,12 @@ p {
     font-weight: 100px;
 }
 
+
 .fixed-size {
-    width: 500px; /* Set the width */
-    height: 500px; /* Set the height */
-    margin: 0 auto; /* Centers the element horizontally */
-    position: relative; /* Modify positioning if needed */
-    transform: translateY(-50%); /* Optional adjustment */
+    /* SumUp logo placement and adjustment
+    width: 500px;
+    /* Set the width */
+    height: 500px;
+    /* Set the height */
+    margin: -200px;
 }
